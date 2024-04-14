@@ -25,7 +25,7 @@ public static void main(String[] args) {
         case 7 -> "Sábado";
         default -> nomeDia;
     };
-
+    
     System.out.println(STR."Dia da semana é: \{nomeDia}");
 
 
